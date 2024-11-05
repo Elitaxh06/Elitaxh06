@@ -47,3 +47,10 @@ Hello! I'm Esteban, a web developer passionate about creating efficient and user
 <a target="_blank" href="https://www.linkedin.com/in/esteban-pizarro-5897362a9/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<div >
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Elitaxh06&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elitaxh06)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Elitaxh06&theme=material-palenight)](https://github.com/Elitaxh06)
+</div>
