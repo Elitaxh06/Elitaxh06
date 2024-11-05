@@ -39,6 +39,9 @@ Hello! I'm Esteban, a web developer passionate about creating efficient and user
 </span>
 
 ## Check out my Social Media
-<a href="https://www.instagram.com/esteban_pizarro25/">
+<a target="_blank" href="https://www.instagram.com/esteban_pizarro25/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/esteban-pizarro-5897362a9/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
