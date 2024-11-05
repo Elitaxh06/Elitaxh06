@@ -11,7 +11,7 @@ Hello! I'm Esteban, a web developer passionate about creating efficient and user
   - React js
 - 👯 I'm eager to contribute to open-source projects and exchange ideas with fellow developers!.
 - ✔ Ask me anything about web development—I'll gladly help where I can.😉<br>
-- Outside tech, I enjoy playing soccer ⚽, listening to music 🎧, going to the gym 💪, and playing video games 🎮.
+- Outside tech, I enjoy playing soccer ⚽, listening to music 🎧, going to the gym 💪, and playing video games🎮.
 - 📫 Reach out to me at: <a href="eliaspizarro11@gmail.com">eliaspizarro11@gmail.com</a>
 
 ## My Skills Include
