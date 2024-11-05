@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Esteban <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
--->
 <img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/DJWz8WlvMSgAAAAd/monkey-monkeys.gif"/>
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Hello! I'm Esteban, a web developer passionate about creating efficient and user-centered applications. Currently, I'm studying to become a full-stack developer, strengthening my skills in both frontend and backend. I enjoy tackling challenges and continuously expanding my technical knowledge. My goal is to contribute to impactful projects and grow within a dynamic team. Feel free to explore my profile and reach out if you'd like to collaborate!
