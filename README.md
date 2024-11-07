@@ -7,7 +7,7 @@ Hello! I'm Esteban, a web developer passionate about creating efficient and user
 
 - 🌱 I’m currently learning ...
   - Angular
-  - Node js
+  - JavaScript
   - React js
 - 👯 I'm eager to contribute to open-source projects and exchange ideas with fellow developers!.
 - ✔ Ask me anything about web development—I'll gladly help where I can.😉<br>
