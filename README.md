@@ -6,9 +6,9 @@
 Hello! I'm Esteban, a web developer passionate about creating efficient and user-centered applications. Currently, I'm studying to become a full-stack developer, strengthening my skills in both frontend and backend. I enjoy tackling challenges and continuously expanding my technical knowledge. My goal is to contribute to impactful projects and grow within a dynamic team. Feel free to explore my profile and reach out if you'd like to collaborate!
 
 - 🌱 I’m currently learning ...
-  - Angular
-  - JavaScript
   - React
+  - JavaScript
+  - Agular
 - 👯 I'm eager to contribute to open-source projects and exchange ideas with fellow developers!.
 - ✔ Ask me anything about web development—I'll gladly help where I can.😉<br>
 - Outside tech, I enjoy playing soccer ⚽, listening to music 🎧, going to the gym 💪, and playing video games🎮.
